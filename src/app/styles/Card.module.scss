@@ -1,0 +1,19 @@
+.card {
+    background-color: #f7f7f7;
+    border: #333;
+    border-radius: 11px;
+    padding: 10px;
+    height: 300px;
+    width: 200px;
+    &__header {
+        font-size: 25px;
+    }
+    &__footer {
+        margin-top: 45px;
+    }
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
